@@ -1,4 +1,4 @@
-# 11th_Seminar
+# 12th_Seminar
 
 ## 일정표
 
